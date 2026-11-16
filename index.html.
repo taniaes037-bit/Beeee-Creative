@@ -93,6 +93,13 @@ footer{text-align:center;padding:1.5rem;background:#0a1330;font-size:.9rem}
       <h1>Tu marca merece que la escuchen.</h1>
       <p class="es">Diseño que zumba, ideas que impactan.</p>
       <a class="btn" href="#contacto">Hagamos zumbar tu marca</a>
+
+<a class="btn"
+href="https://wa.me/525562164842"
+target="_blank" rel="noopener">
+WhatsApp: 55 6216 4842
+</a>
+
     </div>
     <div class="term" aria-hidden="true">
       <div class="term-bar"><i></i><i></i><i></i></div>
